@@ -1,7 +1,7 @@
 package com.javacodegeeks;
 
 /**
- * Author: Stathis
+ * Author: ARUN MULKA
  *
  */
 public class App {
